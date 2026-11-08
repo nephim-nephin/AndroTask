@@ -5,6 +5,7 @@ Record, edit, and replay touch/swipe/pinch gestures — no programming knowledge
 
 ---
 
+
 ## Features
 
 | Feature | Details |
